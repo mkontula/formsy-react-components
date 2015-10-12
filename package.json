@@ -39,8 +39,8 @@
     ]
   },
   "dependencies": {
-    "react": ">=0.14.0-rc1",
-	"formsy-react": "christianalfoni/formsy-react#react-0.14"
+    "react": "^0.14.0",
+	"formsy-react": "0.17.0"
   },
   "devDependencies": {
     "babel-eslint": "^4.1.0",
